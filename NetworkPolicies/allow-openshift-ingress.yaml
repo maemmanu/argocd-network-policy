@@ -8,5 +8,5 @@ spec:
   - from:
     - namespaceSelector:
         matchLabels:
-          network.openshift.io/policy-group: ingress
+          network.openshift.io/policy-group: test
 
